@@ -1,3 +1,4 @@
+[![Board Status](https://wwsun.visualstudio.com/e5f1c7ed-951e-49a8-a3e5-46503983328e/5d0176ac-492d-442c-88c0-9cd94b2083a0/_apis/work/boardbadge/a0f25ea5-25d5-45da-a76d-a7cf6f7b0d9c)](https://wwsun.visualstudio.com/e5f1c7ed-951e-49a8-a3e5-46503983328e/_boards/board/t/5d0176ac-492d-442c-88c0-9cd94b2083a0/Microsoft.RequirementCategory)
 # coral-system
 
 <img src="https://user-images.githubusercontent.com/6984035/160110646-2e95c392-7f29-48f3-8970-f07a86b57553.png" alt="coral" height="100px">
